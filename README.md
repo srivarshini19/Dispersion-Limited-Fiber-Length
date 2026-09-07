@@ -38,5 +38,15 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+## Opti-performer Simulation
+<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/ccaecade-c632-4c8e-a8a4-898a77919a43" />
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/a6d76008-6f9e-44d8-a56b-7701e2329d76" />
+<img width="1918" height="961" alt="image" src="https://github.com/user-attachments/assets/ad96553d-52fb-4dfd-9502-a9c016b1947e" />
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/26de6c60-6192-48c2-a2cd-6afff9e52847" />
+
 # Tabulation
+<img width="961" height="1024" alt="image" src="https://github.com/user-attachments/assets/496ce04c-ea7e-45d3-8329-5d0e2f404b09" />
+
+
 # Result
+Thus, the dispersion-limited fiber length of the optical fiber transport system is calculated successfully.
